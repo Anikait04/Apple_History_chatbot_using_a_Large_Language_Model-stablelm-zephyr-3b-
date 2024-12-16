@@ -1,0 +1,6 @@
+PyPDFDirectoryLoader
+RecursiveCharacterTextSplitter
+OllamaEmbeddings
+chromadb
+Chroma
+langchain
